@@ -1401,6 +1401,8 @@
 		14EC1954195B297F00B02AB6 /* sharedItem@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sharedItem@2x.png"; sourceTree = "<group>"; };
 		14EFCAEA17FAFEAA007A38B6 /* MainAppIcon_76-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MainAppIcon_76-76.png"; sourceTree = "<group>"; };
 		14EFCAEC17FAFF48007A38B6 /* MainAppIcon_40-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MainAppIcon_40-40.png"; sourceTree = "<group>"; };
+		4002B01A1D421A7100520FB3 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4002B01C1D421A8300520FB3 /* sl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sl; path = sl.lproj/Localizable.strings; sourceTree = "<group>"; };
 		400560741A03B1190030D502 /* MainAppIcon_40-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MainAppIcon_40-40@2x.png"; sourceTree = "<group>"; };
 		400560761A03B4F80030D502 /* MainAppIcon_40-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MainAppIcon_40-40@3x.png"; sourceTree = "<group>"; };
 		4005607B1A03CEEE0030D502 /* MainAppIcon_60-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MainAppIcon_60-60@2x.png"; sourceTree = "<group>"; };
@@ -3995,6 +3997,8 @@
 				nb,
 				he,
 				ja,
+				sq,
+				sl,
 			);
 			mainGroup = 1324296D15ADBB3700DF823E;
 			productRefGroup = 1324297915ADBB3700DF823E /* Products */;
@@ -5114,6 +5118,8 @@
 				EA5DFA9B1C0F031000BA0C06 /* nb */,
 				590F1FF91C7474AE00AAF1C7 /* he */,
 				590F1FFA1C7474B700AAF1C7 /* ja */,
+				4002B01A1D421A7100520FB3 /* sq */,
+				4002B01C1D421A8300520FB3 /* sl */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
